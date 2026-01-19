@@ -6,9 +6,7 @@
 
 ### *Reaching New Heights in Digital Innovation*
 
-[![Website](https://img.shields.io/badge/Website-Coming%20Soon-blue?style=for-the-badge&logo=globe)](https://techtentacle.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/techtentacle)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail)](mailto:hello@techtentacle.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail)](mailto:codewithkali@gmail.com)
 
 </div>
 
@@ -115,22 +113,22 @@ Welcome to **The Tech Tentacle** - where innovation meets execution! We are a dy
 <td align="center" width="50%">
 
 ### 🧑‍💻 Founder 1
-**Full-Stack Architect**
+**Full-Stack Architect: Rakesh Yadav**
 
-*"Turning coffee into code since 2020"*
+*"Turning coffee into code since 2024"*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/founder1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/founder1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rakeshyadav-19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-yadav-701a051a8/)
 
 </td>
 <td align="center" width="50%">
 
 ### 🧑‍🔬 Founder 2
-**AI/ML Specialist**
+**AI/ML Specialist: Prabhu Badkar**
 
 *"Making machines think, one algorithm at a time"*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/founder2)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrabhuBadkar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/founder2)
 
 </td>
@@ -201,9 +199,7 @@ graph LR
 
 **We'd love to hear about your project!**
 
-[![Email](https://img.shields.io/badge/📧%20Email-hello@techtentacle.com-D14836?style=for-the-badge)](mailto:hello@techtentacle.com)
-[![Schedule Call](https://img.shields.io/badge/📅%20Schedule%20Call-Calendly-00A2FF?style=for-the-badge)](https://calendly.com/techtentacle)
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Chat%20Now-25D366?style=for-the-badge)](https://wa.me/1234567890)
+[![Email](https://img.shields.io/badge/📧%20Email-hello@techtentacle.com-D14836?style=for-the-badge)](mailto:codewithkali@gmail.com)
 
 </div>
 
