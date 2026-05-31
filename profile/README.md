@@ -28,7 +28,7 @@ Welcome to **The Tech Tentacle** - where innovation meets execution! We are a dy
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 ### 🌐 Web Development
 **Full-Stack Excellence**
@@ -41,7 +41,7 @@ Welcome to **The Tech Tentacle** - where innovation meets execution! We are a dy
 - Cloud Deployment & DevOps
 
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 ### 🤖 AI/ML Solutions
 **Intelligence Amplified**
@@ -52,19 +52,6 @@ Welcome to **The Tech Tentacle** - where innovation meets execution! We are a dy
 - Predictive Analytics
 - AI Chatbots & Automation
 - Custom AI Integrations
-
-</td>
-<td width="33%" align="center">
-
-### 📊 Data Analytics
-**Insights Unleashed**
-
-- Business Intelligence Dashboards
-- Data Visualization
-- Statistical Analysis
-- ETL Pipeline Development
-- Real-time Analytics
-- Data Strategy Consulting
 
 </td>
 </tr>
