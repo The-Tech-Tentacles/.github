@@ -2,204 +2,112 @@
 
 <div align="center">
 
-![Tech Tentacle Banner](https://via.placeholder.com/800x200/1a1a2e/16213e?text=THE+TECH+TENTACLE)
+**Reaching New Heights in Digital Innovation**
 
-### *Reaching New Heights in Digital Innovation*
+[![Email](https://img.shields.io/badge/Email-codewithkali@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithkali@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail)](mailto:codewithkali@gmail.com)
-
-</div>
-
----
-
-## 🌊 About Us
-
-Welcome to **The Tech Tentacle** - where innovation meets execution! We are a dynamic startup founded by two passionate technologists who believe in transforming ideas into digital reality. Like a tentacle that reaches and adapts, we extend our expertise across multiple domains to help businesses thrive in the digital age.
-
-<div align="center">
-
-### 🚀 *"Eight arms, infinite possibilities"*
+*"Eight arms, infinite possibilities"* 🚀
 
 </div>
 
 ---
 
-## 🎯 Our Services
+## 🌊 Who We Are
 
-<table>
-<tr>
-<td width="50%" align="center">
+**The Tech Tentacle** is a two-founder startup from India building full-stack web apps and AI/ML solutions. We turn ideas into shipped products — fast, clean, and scalable.
 
-### 🌐 Web Development
-**Full-Stack Excellence**
-
-- Modern React & Next.js Applications
-- Responsive UI/UX Design
-- E-commerce Solutions
-- Progressive Web Apps (PWAs)
-- API Development & Integration
-- Cloud Deployment & DevOps
-
-</td>
-<td width="50%" align="center">
-
-### 🤖 AI/ML Solutions
-**Intelligence Amplified**
-
-- Machine Learning Models
-- Natural Language Processing
-- Computer Vision Applications
-- Predictive Analytics
-- AI Chatbots & Automation
-- Custom AI Integrations
-
-</td>
-</tr>
-</table>
+We're not an agency. We're builders who take ownership from first commit to production deployment.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 What We Build
 
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### AI/ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
+| 🌐 Web & Full-Stack | 🤖 AI / ML |
+|---|---|
+| React & Next.js apps | Custom ML models |
+| REST & GraphQL APIs | NLP & chatbots |
+| E-commerce & PWAs | Computer vision |
+| Cloud deployment (AWS) | Predictive analytics |
 
 ---
 
-## 👥 Meet the Founders
+## 🛠️ Our Stack
 
-<div align="center">
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<table>
-<tr>
-<td align="center" width="50%">
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square)
 
-### 🧑‍💻 Founder 1
-**Full-Stack Architect: Rakesh Yadav**
+**AI / Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-*"Turning coffee into code since 2024"*
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rakeshyadav-19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-yadav-701a051a8/)
-
-</td>
-<td align="center" width="50%">
-
-### 🧑‍🔬 Founder 2
-**AI/ML Specialist: Prabhu Badkar**
-
-*"Making machines think, one algorithm at a time"*
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrabhuBadkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/founder2)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎨 Why Choose The Tech Tentacle?
-
-<div align="center">
-
-| 🚀 **Innovation First** | 🎯 **Client-Centric** | 💡 **Agile Approach** | 🔧 **Quality Assured** |
-|:---:|:---:|:---:|:---:|
-| We stay ahead of tech trends | Your success is our priority | Rapid prototyping & iteration | Rigorous testing & optimization |
-
-</div>
-
-### ✨ Our Unique Value Proposition
-
-- **🔄 End-to-End Solutions**: From concept to deployment, we handle it all
-- **🧠 AI-First Mindset**: Integrating intelligence into every solution
-- **📈 Scalable Architecture**: Built to grow with your business
-- **🤝 Collaborative Partnership**: We work with you, not just for you
-- **⚡ Rapid Delivery**: Agile methodologies for faster time-to-market
-
----
-
-## 📈 Our Process
-
-```mermaid
-graph LR
-    A[🔍 Discovery] --> B[🎨 Design]
-    B --> C[⚙️ Development]
-    C --> D[🧪 Testing]
-    D --> E[🚀 Deployment]
-    E --> F[📊 Optimization]
-    F --> A
-```
-
-1. **Discovery** - Understanding your vision and requirements
-2. **Design** - Creating user-centric designs and architecture
-3. **Development** - Building with cutting-edge technologies
-4. **Testing** - Ensuring quality and performance
-5. **Deployment** - Launching your solution to the world
-6. **Optimization** - Continuous improvement and scaling
+**DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
+### 🎓 [CampusHub](https://github.com/The-Tech-Tentacles/CampusHub)
+> University management platform built with React, Node.js & PostgreSQL
 
-### 🔜 Coming Soon!
-*We're working on some amazing projects that will showcase our capabilities. Stay tuned!*
-
-</div>
+QR attendance · Digital forms · LMS · Group chat · Admin workflows · Student profiles
 
 ---
 
-## 📞 Let's Connect!
+## 👥 The Founders
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Ready to bring your ideas to life?
+### Rakesh Yadav
+**Full-Stack Architect**
 
-**We'd love to hear about your project!**
+*"Turning coffee into code"*
 
-[![Email](https://img.shields.io/badge/📧%20Email-hello@techtentacle.com-D14836?style=for-the-badge)](mailto:codewithkali@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Rakeshyadav-19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-yadav-701a051a8/)
 
-</div>
+</td>
+<td align="center" width="50%">
+
+### Prabhu Badkar
+**AI/ML Specialist**
+
+*"Making machines think"*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/PrabhuBadkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/founder2)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📬 Work With Us
+
+Got a project? We'd love to hear about it.
+
+**📧 [codewithkali@gmail.com](mailto:codewithkali@gmail.com)**
 
 ---
 
 <div align="center">
 
-### 🐙 *The Tech Tentacle - Embracing Innovation, Delivering Excellence*
-
-**Made with ❤️ by The Tech Tentacle Team**
-
----
-
-*© 2024 The Tech Tentacle. All rights reserved.*
+*© 2026 The Tech Tentacle · Made with ❤️ in India*
 
 </div>
